@@ -4,8 +4,9 @@ pandas
 numpy
 Pillow
 
-# OPENCV (Use HEADLESS version for cloud deployment)
+# OPENCV 
 opencv-python-headless
 
-# DEEP LEARNING (Pinning deepface for environment stability)
-deepface==0.0.98
+# DEEP LEARNING (Use latest versions and add necessary bridges)
+deepface
+tf-keras

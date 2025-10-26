@@ -1,8 +1,11 @@
+# CORE STREAMLIT AND DATA
 streamlit
-opencv-python
-deepface
-numpy
 pandas
+numpy
 Pillow
-streamlit-webrtc
+
+# OPENCV (Use HEADLESS version for cloud deployment)
 opencv-python-headless
+
+# DEEP LEARNING (Pinning deepface for environment stability)
+deepface==0.0.98
